@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ALO FUN",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "ALOJUST",
+    "password": "Byby",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "FBCRAFT.aternos.me",
+    "port": 31879 ,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
